@@ -1,4 +1,4 @@
-# gitkube-example
+# gitkube
 
 An nginx example application to be used with [gitkube](https://gitkube.sh/): git push to deploy on to Kubernetes.
 
